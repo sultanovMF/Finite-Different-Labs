@@ -1,0 +1,6 @@
+C:/Users/student/Desktop/murmurmur/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/student/Desktop/murmurmur/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/student/Desktop/murmurmur/build/labs/CMakeFiles/lab_1.dir
+C:/Users/student/Desktop/murmurmur/build/labs/CMakeFiles/lab_2.dir
+C:/Users/student/Desktop/murmurmur/build/labs/CMakeFiles/lab_3.dir
+C:/Users/student/Desktop/murmurmur/build/labs/CMakeFiles/lab_4.dir
