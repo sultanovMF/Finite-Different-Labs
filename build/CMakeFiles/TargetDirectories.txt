@@ -1,6 +1,6 @@
-C:/Users/student/Desktop/murmurmur/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/student/Desktop/murmurmur/build/CMakeFiles/ZERO_CHECK.dir
-C:/Users/student/Desktop/murmurmur/build/labs/CMakeFiles/lab_1.dir
-C:/Users/student/Desktop/murmurmur/build/labs/CMakeFiles/lab_2.dir
-C:/Users/student/Desktop/murmurmur/build/labs/CMakeFiles/lab_3.dir
-C:/Users/student/Desktop/murmurmur/build/labs/CMakeFiles/lab_4.dir
+E:/Projects/trs-labs/build/CMakeFiles/ALL_BUILD.dir
+E:/Projects/trs-labs/build/CMakeFiles/ZERO_CHECK.dir
+E:/Projects/trs-labs/build/labs/CMakeFiles/lab_1.dir
+E:/Projects/trs-labs/build/labs/CMakeFiles/lab_2.dir
+E:/Projects/trs-labs/build/labs/CMakeFiles/lab_3.dir
+E:/Projects/trs-labs/build/labs/CMakeFiles/lab_4.dir
