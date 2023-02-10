@@ -42,6 +42,13 @@
 \makeatother
 
 \begin{document}
+\begin{equation}
+  \frac{u_{i-1} - 2 u_i + u_{i+1}}{h^2} + p(x_i) \frac{u_{i+1} - u_{i-1}}{2h} + q(x_i) u_i = f(x_i)
+\end{equation}
+
+\begin{equation}
+  (2 - p(x_i) h) \cdot u_{i-1} + (2q(x_i)h^2 - 4) \cdot u_i + (2 + p(x_i) h  ) \cdot u_{i+1} = 2 h^2 f(x_i))
+\end{equation}
 % \includepdf[pages={1}]{src/front_page.pdf}
 \textbf{Цель работы:}  получить навык проведения вычислительного
 эксперимента, направленного на исследование свойств итерационных методов

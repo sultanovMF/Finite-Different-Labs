@@ -5,6 +5,7 @@
 #include <span>
 #include <vector>
 #include <algorithm>
+#include <stdexcept>
 
 const double EPSILON = 0.000001;
 
@@ -15,7 +16,8 @@ const double EPSILON = 0.000001;
 	| ............ | 
 	| ...... An Bn | Dn // Cn = 0
 */
-auto solve_tridiagonal(
+
+std::vector<double> solve_tridiagonal(
 	const std::span<double> A,
 	const std::span<double> B,
 	const std::span<double> C,
