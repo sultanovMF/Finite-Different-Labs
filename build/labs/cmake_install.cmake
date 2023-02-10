@@ -1,4 +1,4 @@
-# Install script for directory: E:/Projects/trs-labs/labs
+# Install script for directory: C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/labs
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

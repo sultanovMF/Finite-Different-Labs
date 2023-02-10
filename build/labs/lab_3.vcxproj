@@ -22,9 +22,9 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{1AF3CC44-FC74-3100-8D64-EC3EB5066B70}</ProjectGuid>
-    <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
+    <ProjectGuid>{220300A1-AA06-3B03-8607-B4A7FDCB0A19}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.22000.0</WindowsTargetPlatformVersion>
     <Platform>x64</Platform>
     <ProjectName>lab_3</ProjectName>
     <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
@@ -59,25 +59,25 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup>
     <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">E:\Projects\trs-labs\build\labs\Debug\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\mur-m\OneDrive\Рабочий стол\Projects\trs-labs\build\labs\Debug\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">lab_3.dir\Debug\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">lab_3</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</GenerateManifest>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">E:\Projects\trs-labs\build\labs\Release\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\mur-m\OneDrive\Рабочий стол\Projects\trs-labs\build\labs\Release\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">lab_3.dir\Release\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">lab_3</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</GenerateManifest>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">E:\Projects\trs-labs\build\labs\MinSizeRel\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\mur-m\OneDrive\Рабочий стол\Projects\trs-labs\build\labs\MinSizeRel\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">lab_3.dir\MinSizeRel\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">lab_3</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">.exe</TargetExt>
     <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkIncremental>
     <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</GenerateManifest>
-    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">E:\Projects\trs-labs\build\labs\RelWithDebInfo\</OutDir>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\mur-m\OneDrive\Рабочий стол\Projects\trs-labs\build\labs\RelWithDebInfo\</OutDir>
     <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">lab_3.dir\RelWithDebInfo\</IntDir>
     <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">lab_3</TargetName>
     <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.exe</TargetExt>
@@ -116,8 +116,8 @@
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>E:/Projects/trs-labs/build/labs/Debug/lab_3.lib</ImportLibrary>
-      <ProgramDataBaseFile>E:/Projects/trs-labs/build/labs/Debug/lab_3.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build/labs/Debug/lab_3.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build/labs/Debug/lab_3.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -156,8 +156,8 @@
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>false</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>E:/Projects/trs-labs/build/labs/Release/lab_3.lib</ImportLibrary>
-      <ProgramDataBaseFile>E:/Projects/trs-labs/build/labs/Release/lab_3.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build/labs/Release/lab_3.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build/labs/Release/lab_3.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -196,8 +196,8 @@
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>false</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>E:/Projects/trs-labs/build/labs/MinSizeRel/lab_3.lib</ImportLibrary>
-      <ProgramDataBaseFile>E:/Projects/trs-labs/build/labs/MinSizeRel/lab_3.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build/labs/MinSizeRel/lab_3.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build/labs/MinSizeRel/lab_3.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -235,8 +235,8 @@
       <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
       <GenerateDebugInformation>true</GenerateDebugInformation>
       <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
-      <ImportLibrary>E:/Projects/trs-labs/build/labs/RelWithDebInfo/lab_3.lib</ImportLibrary>
-      <ProgramDataBaseFile>E:/Projects/trs-labs/build/labs/RelWithDebInfo/lab_3.pdb</ProgramDataBaseFile>
+      <ImportLibrary>C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build/labs/RelWithDebInfo/lab_3.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build/labs/RelWithDebInfo/lab_3.pdb</ProgramDataBaseFile>
       <SubSystem>Console</SubSystem>
     </Link>
     <ProjectReference>
@@ -244,11 +244,11 @@
     </ProjectReference>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CustomBuild Include="E:\Projects\trs-labs\labs\CMakeLists.txt">
+    <CustomBuild Include="C:\Users\mur-m\OneDrive\Рабочий стол\Projects\trs-labs\labs\CMakeLists.txt">
       <UseUtf8Encoding>Always</UseUtf8Encoding>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule E:/Projects/trs-labs/labs/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/labs/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SE:/Projects/trs-labs -BE:/Projects/trs-labs/build --check-stamp-file E:/Projects/trs-labs/build/labs/CMakeFiles/generate.stamp
+"C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs" "-BC:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build" --check-stamp-file "C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build/labs/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -257,11 +257,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">E:\Projects\trs-labs\build\labs\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\mur-m\OneDrive\Рабочий стол\Projects\trs-labs\build\labs\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule E:/Projects/trs-labs/labs/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/labs/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SE:/Projects/trs-labs -BE:/Projects/trs-labs/build --check-stamp-file E:/Projects/trs-labs/build/labs/CMakeFiles/generate.stamp
+"C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs" "-BC:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build" --check-stamp-file "C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build/labs/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -270,11 +270,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">E:\Projects\trs-labs\build\labs\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\mur-m\OneDrive\Рабочий стол\Projects\trs-labs\build\labs\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule E:/Projects/trs-labs/labs/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/labs/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SE:/Projects/trs-labs -BE:/Projects/trs-labs/build --check-stamp-file E:/Projects/trs-labs/build/labs/CMakeFiles/generate.stamp
+"C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs" "-BC:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build" --check-stamp-file "C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build/labs/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -283,11 +283,11 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">E:\Projects\trs-labs\build\labs\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\mur-m\OneDrive\Рабочий стол\Projects\trs-labs\build\labs\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
-      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule E:/Projects/trs-labs/labs/CMakeLists.txt</Message>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/labs/CMakeLists.txt</Message>
       <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SE:/Projects/trs-labs -BE:/Projects/trs-labs/build --check-stamp-file E:/Projects/trs-labs/build/labs/CMakeFiles/generate.stamp
+"C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs" "-BC:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build" --check-stamp-file "C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build/labs/CMakeFiles/generate.stamp"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
@@ -296,16 +296,16 @@ exit /b %1
 :cmDone
 if %errorlevel% neq 0 goto :VCEnd</Command>
       <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">%(AdditionalInputs)</AdditionalInputs>
-      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">E:\Projects\trs-labs\build\labs\CMakeFiles\generate.stamp</Outputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\mur-m\OneDrive\Рабочий стол\Projects\trs-labs\build\labs\CMakeFiles\generate.stamp</Outputs>
       <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="E:\Projects\trs-labs\labs\lab_3.cpp" />
+    <ClCompile Include="C:\Users\mur-m\OneDrive\Рабочий стол\Projects\trs-labs\labs\lab_3.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="E:\Projects\trs-labs\build\ZERO_CHECK.vcxproj">
-      <Project>{F8C0BF72-DBA0-3F21-B109-AB68F0B2C7FF}</Project>
+    <ProjectReference Include="C:\Users\mur-m\OneDrive\Рабочий стол\Projects\trs-labs\build\ZERO_CHECK.vcxproj">
+      <Project>{34865AC1-0F6D-3A73-8247-96F77927908A}</Project>
       <Name>ZERO_CHECK</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>

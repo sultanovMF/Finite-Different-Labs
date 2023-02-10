@@ -1,6 +1,6 @@
-E:/Projects/trs-labs/build/CMakeFiles/ALL_BUILD.dir
-E:/Projects/trs-labs/build/CMakeFiles/ZERO_CHECK.dir
-E:/Projects/trs-labs/build/labs/CMakeFiles/lab_1.dir
-E:/Projects/trs-labs/build/labs/CMakeFiles/lab_2.dir
-E:/Projects/trs-labs/build/labs/CMakeFiles/lab_3.dir
-E:/Projects/trs-labs/build/labs/CMakeFiles/lab_4.dir
+C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build/labs/CMakeFiles/lab_1.dir
+C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build/labs/CMakeFiles/lab_2.dir
+C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build/labs/CMakeFiles/lab_3.dir
+C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build/labs/CMakeFiles/lab_4.dir

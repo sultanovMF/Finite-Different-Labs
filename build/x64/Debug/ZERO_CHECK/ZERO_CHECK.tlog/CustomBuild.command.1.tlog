@@ -1,6 +1,6 @@
-^E:\PROJECTS\TRS-LABS\BUILD\CMAKEFILES\0B94FB9E1E0028C14D8BFE510D9AF1E7\GENERATE.STAMP.RULE
+^C:\USERS\MUR-M\ONEDRIVE\РАБОЧИЙ СТОЛ\PROJECTS\TRS-LABS\BUILD\CMAKEFILES\DFD10CFEA7F3631A43BA8B64FF6341DF\GENERATE.STAMP.RULE
 setlocal
-"C:\Program Files\CMake\bin\cmake.exe" -SE:/Projects/trs-labs -BE:/Projects/trs-labs/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/Projects/trs-labs/build/numerical_methods.sln
+"C:\Program Files\Microsoft Visual Studio\2022\Preview\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs" "-BC:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/mur-m/OneDrive/Рабочий стол/Projects/trs-labs/build/numerical_methods.sln"
 if %errorlevel% neq 0 goto :cmEnd
 :cmEnd
 endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
